@@ -29,7 +29,7 @@ public class Q4Task11 {
 
 		System.out.println("----------------------------------------");
 
-		// Printing the C value when the B
+		// Printing the C value when the B value is set to 1
 		System.out.println("The value of C is: " + C);
 	}
 
